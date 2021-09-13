@@ -1476,7 +1476,7 @@
         "protocol":"trojan",
         "ps":"github.com/freefq - 俄罗斯新西伯利亚JustHost 30",
         "subscribeUrl":"https://raw.githubusercontent.com/ZheXinYou/V/main/1",
-        "tls":""
+        "tls":"tls"
     },
     {
         "address":"t2.ssrsub.one",
